@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="">
+<head>
+    <title>The Calm Website Template | Home </title>
+    <style>
+        body{
+            font-family:Arial,Helvetica,sans-serif;
+        }
+        .warp{
+            display: block;
+            text-align: center;
+            margin-top: 2%;
+        }
+        .nav{
+            color:white;
+            display: inline-block;	
+        }
+        .nav>a{
+            color:white;text-decoration:none;
+        }
+        a:hover{
+            color:#D817B9;
+
+        }
+
+        .main{
+            display: block;
+            width: 80%;
+            text-align: center;
+            /*background-color: aqua;*/
+            margin: 0 auto;
+            margin-top: 2%;
+        }
+        .box{
+            display: inline-block;
+            width:20%;
+            margin:10px;
+        }
+        img{
+            width: 100%;
+
+        }
+        .line1{
+            display: block;
+            font-size: 1.2em;
+            font-weight: 100;
+            text-transform: capitalize;
+            line-height: 1.8em;
+        }
+        .line2{
+            display: block;
+            font-size: 0.8125em;
+			font-weight: 100;
+            text-transform: capitalize;
+        }
+        span{
+            color: white;
+        }
+        .box:hover{
+            background-color: rgba(255,255,255,.5);
+        }
+    body,td,th {
+    font-size: 24px;
+}
+    </style>
+<meta charset="utf-8">
+</head>
+<body style="background-color: #34495E">
+<div >
+    <ul class="warp">
+        <li class="nav">
+            <a href="https://www.w3cschool.cn"target="_blank">All</a>
+            &nbsp;  /
+        </li>
+        <li class="nav">
+            <a href="https://www.w3cschool.cn/"target="_blank">Design</a>
+            &nbsp;  /
+        </li>
+        <li class="nav">
+            <a href="https://www.w3cschool.cn"target="_blank">Branding</a>
+            &nbsp;  /
+        </li>
+        <li class="nav">
+            <a href="https://www.w3cschool.cn"target="_blank">Graphic</a>
+            &nbsp; /
+        </li>
+        <li class="nav">
+            <a href="https://www.w3cschool.cn"target="_blank">Animation</a>
+            &nbsp;  / 
+        </li>
+        <li class="nav">
+            <a href="https://www.w3cschool.cn"target="_blank">Illustration</a>
+            &nbsp;  /
+        </li>
+        <li class="nav">
+            <a href="https://www.w3cschool.cn"target="_blank">Photography</a>
+        </li>
+    </ul>
+    <div class="main">
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic1.jpg" alt=""></a>
+            <div>
+                <span class="line1">Bird Document</span>
+                <span class="line2">Logo</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic2.jpg" alt=""></a>
+            <div>
+                <span class="line1">visual infography</span>
+                <span class="line2">app</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic3.jpg" alt=""></a>
+            <div>
+                <span class="line1">sonor`s design</span>
+                <span class="line2">web design</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic4.jpg" alt=""></a>
+            <div>
+                <span class="line1">Typography Company</span>
+                <span class="line2">Business Card</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic5.jpg" alt=""></a>
+            <div>
+                <span class="line1">Weatherette</span>
+                <span class="line2">APP</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic6.jpg" alt=""></a>
+            <div>
+                <span class="line1">BMF</span>
+                <span class="line2">Business Card</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic7.jpg" alt=""></a>
+            <div>
+                <span class="line1">Techlion</span>
+                <span class="line2">Business Card</span>
+            </div>
+        </div>
+        <div class="box" ><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic8.jpg" alt=""></a>
+            <div>
+                <span class="line1">KittyPic</span>
+                <span class="line2">Logo</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic9.jpg" alt=""></a>
+            <div>
+                <span class="line1">Graph Plotting</span>
+                <span class="line2">APP</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic10.jpg" alt=""></a>
+            <div>
+                <span class="line1">Student Guide</span>
+                <span class="line2">Web Design</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic11.jpg" alt=""></a>
+            <div>
+                <span class="line1">Scoccer</span>
+                <span class="line2">lcon</span>
+            </div>
+        </div>
+        <div class="box"><a href="https://www.w3cschool.cn"target="_blank"><img src="images/pic12.jpg" alt=""></a>
+            <div>
+                <span class="line1">3D Map</span>
+                <span class="line2">lcon</span>
+            </div>
+        </div>
+         </div>
+
+</div>
+
+
+</body>
+</html>
+
